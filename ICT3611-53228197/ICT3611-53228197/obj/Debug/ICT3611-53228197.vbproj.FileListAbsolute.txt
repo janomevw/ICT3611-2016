@@ -1,0 +1,23 @@
+C:\Users\jvanwyk\AppData\Local\Temporary Projects\ICT3611-53228197\bin\Debug\ICT3611-53228197.exe.config
+C:\Users\jvanwyk\AppData\Local\Temporary Projects\ICT3611-53228197\bin\Debug\ICT3611-53228197.exe
+C:\Users\jvanwyk\AppData\Local\Temporary Projects\ICT3611-53228197\bin\Debug\ICT3611-53228197.pdb
+C:\Users\jvanwyk\AppData\Local\Temporary Projects\ICT3611-53228197\bin\Debug\ICT3611-53228197.xml
+C:\Users\jvanwyk\AppData\Local\Temporary Projects\ICT3611-53228197\obj\Debug\ICT3611_53228197.Form1.resources
+C:\Users\jvanwyk\AppData\Local\Temporary Projects\ICT3611-53228197\obj\Debug\ICT3611_53228197.Resources.resources
+C:\Users\jvanwyk\AppData\Local\Temporary Projects\ICT3611-53228197\obj\Debug\ICT3611-53228197.vbproj.GenerateResource.Cache
+C:\Users\jvanwyk\AppData\Local\Temporary Projects\ICT3611-53228197\obj\Debug\ICT3611-53228197.exe
+C:\Users\jvanwyk\AppData\Local\Temporary Projects\ICT3611-53228197\obj\Debug\ICT3611-53228197.xml
+C:\Users\jvanwyk\AppData\Local\Temporary Projects\ICT3611-53228197\obj\Debug\ICT3611-53228197.pdb
+C:\Users\jvanwyk\AppData\Local\Temporary Projects\ICT3611-53228197\obj\Debug\ICT3611_53228197.Form2.resources
+C:\Users\jvanwyk\Documents\Visual Studio 2012\Projects\ICT3611-53228197\ICT3611-53228197\bin\Debug\ICT3611-53228197.exe.config
+C:\Users\jvanwyk\Documents\Visual Studio 2012\Projects\ICT3611-53228197\ICT3611-53228197\obj\Debug\ICT3611-53228197.exe
+C:\Users\jvanwyk\Documents\Visual Studio 2012\Projects\ICT3611-53228197\ICT3611-53228197\obj\Debug\ICT3611-53228197.xml
+C:\Users\jvanwyk\Documents\Visual Studio 2012\Projects\ICT3611-53228197\ICT3611-53228197\obj\Debug\ICT3611-53228197.pdb
+C:\Users\jvanwyk\Documents\Visual Studio 2012\Projects\ICT3611-53228197\ICT3611-53228197\bin\Debug\ICT3611-53228197.exe
+C:\Users\jvanwyk\Documents\Visual Studio 2012\Projects\ICT3611-53228197\ICT3611-53228197\bin\Debug\ICT3611-53228197.pdb
+C:\Users\jvanwyk\Documents\Visual Studio 2012\Projects\ICT3611-53228197\ICT3611-53228197\bin\Debug\ICT3611-53228197.xml
+C:\Users\jvanwyk\Documents\Visual Studio 2012\Projects\ICT3611-53228197\ICT3611-53228197\obj\Debug\ICT3611_53228197.Resources.resources
+C:\Users\jvanwyk\Documents\Visual Studio 2012\Projects\ICT3611-53228197\ICT3611-53228197\obj\Debug\ICT3611-53228197.vbproj.GenerateResource.Cache
+C:\Users\jvanwyk\Documents\Visual Studio 2012\Projects\ICT3611-53228197\ICT3611-53228197\obj\Debug\ICT3611_53228197.frmNewMember.resources
+C:\Users\jvanwyk\Documents\Visual Studio 2012\Projects\ICT3611-53228197\ICT3611-53228197\obj\Debug\ICT3611_53228197.frmLogin.resources
+C:\Users\jvanwyk\Documents\Visual Studio 2012\Projects\ICT3611-53228197\ICT3611-53228197\obj\Debug\ICT3611_53228197.frmManagement.resources
